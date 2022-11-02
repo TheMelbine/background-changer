@@ -47,6 +47,10 @@ font-family: 'Roboto', sans-serif;
 
 }
 
+.container__btn #btn{
+    margin-right: 10px;
+}
+
 
 .container__btn:hover{
     
