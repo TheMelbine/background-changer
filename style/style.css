@@ -33,7 +33,7 @@ body{
     
 }
 
-.btn{
+.container__btn{
 
     letter-spacing: 1.6px;
 font-size: 26px;
@@ -48,7 +48,7 @@ font-family: 'Roboto', sans-serif;
 }
 
 
-.btn:hover{
+.container__btn:hover{
     
     font-family: 'Roboto', sans-serif;
     background: black;
@@ -57,7 +57,7 @@ font-family: 'Roboto', sans-serif;
     
 }
 
-.lol{
+.container__menu{
     display: flex;
     flex-direction: row;
      
