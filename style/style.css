@@ -13,7 +13,7 @@ body{
     justify-content: center;
     background-color: #3ad4c5;
     text-align: center;
-    width: 500px;
+    max-width: 500px;
     margin: auto;
     flex-direction: column;
 
